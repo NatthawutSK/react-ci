@@ -5,7 +5,7 @@ function About() {
   return (
     <div>
       <h2>About</h2>
-      <p>This is the About page.</p>
+      <p>This is the About page. 5555</p>
       <a href="/">Home</a>
     </div>
   );
